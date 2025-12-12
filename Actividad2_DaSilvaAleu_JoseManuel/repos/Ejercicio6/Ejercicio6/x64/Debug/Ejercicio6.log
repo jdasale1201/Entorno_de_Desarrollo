@@ -1,8 +1,0 @@
-﻿  Ejercicio6.c
-C:\Users\nene1\Desktop\instituto\Entornos de Desarrollo\Actividad2__DaSilvaAleu_JoseManuel\repos\Ejercicio6\Ejercicio6.c(11,10): warning C4473: "printf": no se pasaron suficientes argumentos para la cadena de formato
-      C:\Users\nene1\Desktop\instituto\Entornos de Desarrollo\Actividad2__DaSilvaAleu_JoseManuel\repos\Ejercicio6\Ejercicio6.c(11,10):
-      los marcadores de posición y sus parámetros esperan 1 argumentos variádicos, pero se proporcionaron 0
-      C:\Users\nene1\Desktop\instituto\Entornos de Desarrollo\Actividad2__DaSilvaAleu_JoseManuel\repos\Ejercicio6\Ejercicio6.c(11,10):
-      el argumento variádico 1 que falta es requerido por la cadena de formato '%d'
-  
-  Ejercicio6.vcxproj -> C:\Users\nene1\Desktop\instituto\Entornos de Desarrollo\Actividad2__DaSilvaAleu_JoseManuel\repos\Ejercicio6\x64\Debug\Ejercicio6.exe
