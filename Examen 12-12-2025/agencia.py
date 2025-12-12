@@ -29,7 +29,7 @@ if __name__ == "__main__":
     
     alojamiento1 = alojamiento("Calle Rafael Alberti", "Cádiz", 120.75, "Salón", "ABC-123")
 
-    apartamento1 = apartamento("Calle Rodrigo", "San Fernando", 145.54, "Cocina," "ZYX-987", 2, "No")
+    apartamento1 = apartamento("Calle Rodrigo", "San Fernando", 145.54, "Cocina", "ZYX-987", 2, "No")
 
     CasaRural1 = casaRural("Benitez", "Chiclana", 234.04, "Comedor", "ABC-456", 43, "Si")
 
